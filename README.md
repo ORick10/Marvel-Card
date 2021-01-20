@@ -1,5 +1,5 @@
-<h1><b> Marvel-Card</b><h1>
-<h2><p>Card em HTML CSS com tema da Capitã Marvel estilizado de uma art do dribble.</p><h2>
+<h1><b> Marvel-Card</b></h1>
+<h2><p>Card em HTML CSS com tema da Capitã Marvel estilizado de uma art do dribble.</p></h2>
 <i>criado para teste de css com degradê</i>
 <br>
 <br>
